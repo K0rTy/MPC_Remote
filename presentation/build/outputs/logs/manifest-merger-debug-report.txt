@@ -49,7 +49,7 @@ MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Charllys\OneDri
 	android:allowBackup
 		ADDED from C:\Users\Charllys\OneDrive\App\MpcHcRemote-master\MpcHcRemote-master\presentation\src\main\AndroidManifest.xml:12:13-39
 	android:icon
-		ADDED from C:\Users\Charllys\OneDrive\App\MpcHcRemote-master\MpcHcRemote-master\presentation\src\main\AndroidManifest.xml:14:13-47
+		ADDED from C:\Users\Charllys\OneDrive\App\MpcHcRemote-master\MpcHcRemote-master\presentation\src\main\AndroidManifest.xml:14:13-48
 	android:theme
 		ADDED from C:\Users\Charllys\OneDrive\App\MpcHcRemote-master\MpcHcRemote-master\presentation\src\main\AndroidManifest.xml:17:13-48
 	android:name

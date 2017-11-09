@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Charllys\\OneDrive\\App\\MpcHcRemote-master\\MpcHcRemote-master\\presentation\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher2.png",
+        "source": "C:\\Users\\Charllys\\OneDrive\\App\\MpcHcRemote-master\\MpcHcRemote-master\\presentation\\src\\main\\res\\mipmap-hdpi\\ic_launcher2.png"
+    },
+    {
         "merged": "C:\\Users\\Charllys\\OneDrive\\App\\MpcHcRemote-master\\MpcHcRemote-master\\presentation\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Charllys\\OneDrive\\App\\MpcHcRemote-master\\MpcHcRemote-master\\presentation\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
